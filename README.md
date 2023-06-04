@@ -2,20 +2,22 @@
 
 
 ## :sassy_man:  About me
-- :school: I am studying at 3WA Academy
-- :student: I’m currently learning: `Web Developper`.
-- :thinking: I’m currently searching an internship. This is [MY RESUME](https://drive.google.com/file/d/1T8foOKHEQcSAmfqL5-askszchs4Dtt6R/view?usp=sharing).
+- :school: I am studying at Ynov Bordeaux Campus
+- :student: I’m currently learning: `Systems Developper`.
+- :thinking: I’m currently searching an <b>internship</b>. This is [MY RESUME](https://drive.google.com/file/d/1PGJJRvapQV_kpT8Oz4XdEFCTGt46Zarm/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 - 📫 How to reach me **ballet.bryan4@gmail.com**
 - ⚡ Fun fact : Gunpla are my biggest passion.
 
- <a href="https://www.linkedin.com/in/bryan-ballet/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="bryan ballet" height="30" width="40" /></a>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/bryan-ballet/" target="blank"><img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="bryan ballet" height="30" width="40" /></a>
+ </p>
 
 ## 🛠️ My Skills
 
-### 🎓 Want to Learn
+### 🎓 Currently Learning
 
 <p align="center"> 
   &emsp; 
@@ -30,8 +32,10 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
-
-### 👉 Programming languages
+ 
+### 🎓 Hard Skills
+ 
+#### 👉 Programming languages
 
 <p align="center"> 
   &emsp;
@@ -44,7 +48,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+#### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -56,13 +60,13 @@
   </a> 
 </p>
 
-### 👉 Backend Development
+#### 👉 Backend Development
 <p align="center"> 
   &emsp;
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?style=plastic&logo=mysql&logoColor=white"></a>
 </p>
 
- ### 👉 Software & Tools
+ #### 👉 Software & Tools
  
 <p align="center">
   &emsp;
@@ -71,7 +75,7 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
 </p>
 
- ### 👉 IDEs
+ #### 👉 IDEs
  
 <p align="center">
   &emsp;
